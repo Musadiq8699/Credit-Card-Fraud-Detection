@@ -1,0 +1,9 @@
+# Connection & Data Processing
+snowflake-snowpark-python[pandas]
+python-dotenv
+
+# Machine Learning & Analysis
+scikit-learn
+pandas
+numpy
+matplotlib
